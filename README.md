@@ -12,3 +12,9 @@ Looking at the data from the Taraval Police Station in the Sunset District, the 
 Another intersting thing to note is that Taraval has the third least police reports of all the districts. However, looking at total crime reports doesn't tell the whole story. Tenderloin has a bad reputation with homelessness and crime but has the fourth least police reports. Looking at the police districts map shows us why 
 
 ![DistrictsMap](https://lh4.googleusercontent.com/-SVEsrsxL318/VKCIq3U8lfI/AAAAAAAAbug/REilUPI6NxI/s960/SFPDdistricts2.jpg)
+
+The Tenderloin Police Station has the smallest area to report but still has more crime than bigger districts like the Sunset or Richmond. To go even further I looked at the square footage of each district and factored that in.
+
+![Sqft](https://github.com/daniel3521/SfSunsetCrime/blob/master/CrimeReportPerSqFt.png)
+
+The Tenderloin easily had the most crime per square foot but surprisingly the Sunset had the least. It was interesting to see where my neighborhood stands and hopefully our upward trend goes back down 
