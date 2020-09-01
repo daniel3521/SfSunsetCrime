@@ -5,7 +5,9 @@ Growing up in San Francisco is something I take great pride in but nothing is ev
 
 ## Findings and Insight
 ![Sunset](https://github.com/daniel3521/SfSunsetCrime/blob/master/CrimeSunsetOverYears.png)
-![Districts](https://github.com/daniel3521/SfSunsetCrime/blob/master/CrimeReportsByDistrict.png)
+![Districts](https://github.com/daniel3521/SfSunsetCrime/blob/master/TotalAndViolentCrimes.png)
+
+The first graph is total crime reports per year in the Sunset District with a polynomial regression model and the second graph is a total number of crime reports and number of violent crime reports for each district. I wanted to look at the Sunset district over time and with in comparison to other district in San Francisco. Not all crime reports are the same and I took into account that non-violent crimes count as 1 crime report even though it might not be as serious. I graphed out violent crimes and total crimes and saw similar patterns so I used total crime as my main indicator. 
 
 Looking at the data from the Taraval Police Station in the Sunset District, the first thing I noticed was the rise in crime reports starting in 2010. A polynomial regression with 2 degrees would be the most accurate model as there is a slight downward trend starting from 2002 but starts to trending up after 2010. The reason for an upward trend is unclear but research should be done around that time on trends and events in the Sunset District around 2010. It is important to note that I've excluded years from 2018 onwards due to the lack of data. 
 
